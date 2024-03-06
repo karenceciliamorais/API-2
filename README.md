@@ -23,7 +23,7 @@ Sprint | Previsão | Status| Histórico|
 
 
 # Equipe
-![OI]([https://github.com/CONAEX/Projeto-Integrador-1-Semestre/blob/main/.img/Em%20Branco%206%20Pain%C3%A9is%20Grade%20Quadrinhos.png](https://github.com/karenceciliamorais/API-2/blob/main/HIERARQUIA-KND.png))
+![OI](https://github.com/karenceciliamorais/API-2/blob/main/HIERARQUIA-KND.png)
 
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
 | :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
