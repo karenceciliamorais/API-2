@@ -14,8 +14,8 @@ Mapear o potencial de movimentação de cargas do Aeroporto SJK, utilizando uma 
 
 Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
-|Kick Off | 14/03/2024 | FAZER | | 
-|01| 18/04/2024| FAZER |[Ver Relatório](https://github.com/CONAEX/Projeto-Integrador-1-Semestre/blob/main/Documentos/Sprint%200%20Relat%C3%B3rio%20Atualizado.pdf) |
+|Kick Off | 14/03/2024 |CONCLUÍDO | | 
+|01| 18/04/2024| EM ANDAMENTO |[Ver Relatório](https://github.com/CONAEX/Projeto-Integrador-1-Semestre/blob/main/Documentos/Sprint%200%20Relat%C3%B3rio%20Atualizado.pdf) |
 |02| 09/05/2024 | FAZER |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 |03| 29/05/2024 | FAZER |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx)  | 
 |04| 20/06/2024 | FAZER |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx)  | 
