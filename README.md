@@ -48,11 +48,10 @@ Sprint | Previsão | Status| Histórico|
 
  ### Tecnológias Específicas/Apoio 
  
-Gestão do Projeto:
+
 -![JIRA SOFTWARE](https://github.com/karenceciliamorais/API-2/blob/main/JIRA.PNG)
-  
-Documentaçao do projeto:
--[GitHub]()
+-![Github](https://github.com/karenceciliamorais/API-2/blob/main/Github.PNG)
+
 
 Projeto:
 - [Banco de Dados](http://comexstat.mdic.gov.br/pt/home)  
