@@ -49,7 +49,7 @@ Sprint | Previsão | Status| Histórico|
  ### Tecnológias Específicas/Apoio 
  
 Gestão do Projeto:
--[JIRA SOFTWARE]()
+-[JIRA SOFTWARE](https://github.com/karenceciliamorais/API-2/blob/main/JIRA.PNG)
   
 Documentaçao do projeto:
 -[GitHub]()
