@@ -36,24 +36,27 @@ Sprint | Previsão | Status| Histórico|
 |  Scrum Team  | Miriã Chaves     |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/miri%C3%A3-rodrigues-martins-chaves-9573b51a1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/MiriaChaves)          |
 |  Scrum Team  | Mydory Siqueira     |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/noemy-mtfasi-533975264?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Mydory10) 
 # Objetivo do Projeto
-* Mapear o potencial de movimentação de cargas no Aeroporto SJK.
+* Mapear o fluxo de exportação no estado de São Paulo identificando os modais utilizados na movimentação de cargas, desenhando a geografia do fluxo e desenvolvento uma linha de tendência para as cargas identificadas;
+* Criar modelo de previsão por meio de suavização exponencial para identificar movimentações futuras;
 * Integrar e desenvolver o conhecimento adquirido em todas as matérias;
 * Organizar e estruturar dados em um Dashboard
 * Desenvolver soft e hard skills da equipe.
 
 # Tecnologias Utilizadas
   ### Produto 
-  > **Dashboard**, para apresentar as cargas com maior potencial para operações de exportação e importação no Aeroporto SJK, levando em consideração o CIF (Custo, Segurança e Frete - incluindo o valor do produto). Utilizar o coeficiente de valor-peso para identificar as cargas que podem aumentar o desenvolvimento ecônomico do Aeroporto. 
+  > **Dashboard**, Power BI.
 
  ### Tecnológias Específicas/Apoio 
  
 Gestão do Projeto:
-- [5W2H](https://github.com/CONAEX/Projeto-Integrador-1-Semestre/blob/main/.img/5W2H%20-%20CONAEX.png)
-- [SWOT](https://github.com/CONAEX/Projeto-Integrador-1-Semestre/blob/main/Documentos/MicrosoftTeams-image.png) 
+-[JIRA SOFTWARE]()
+  
+Documentaçao do projeto:
+-[GitHub]()
 
 Projeto:
 - [Banco de Dados](http://comexstat.mdic.gov.br/pt/home)  
-- [Dashboard](https://powerbi.microsoft.com/pt-br/landing/free-account/?ef_id=_k_EAIaIQobChMI1si8h9jFgQMVuQ2tBh1EEAv4EAAYASAAEgLj2_D_BwE_k_&OCID=AIDcmmk4cy2ahx_SEM__k_EAIaIQobChMI1si8h9jFgQMVuQ2tBh1EEAv4EAAYASAAEgLj2_D_BwE_k_&gclid=EAIaIQobChMI1si8h9jFgQMVuQ2tBh1EEAv4EAAYASAAEgLj2_D_BwE)
+- [Dashboard](
 
 
 # Backlog do produto
