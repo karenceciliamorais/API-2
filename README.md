@@ -45,7 +45,7 @@ Sprint | Previsão | Status| Histórico|
 # Tecnologias Utilizadas
 -![JIRA SOFTWARE](https://github.com/karenceciliamorais/API-2/blob/main/TEC.PNG)
 
-#**Banco de dado utiizado**
+# Banco de dado utiizado
 -![comex](https://github.com/karenceciliamorais/API-2/blob/main/comex.PNG)
 
 # Dashboard
