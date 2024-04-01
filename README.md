@@ -47,7 +47,7 @@ Sprint | Previsão | Status| Histórico|
 
 
 Projeto:
-- [Banco de Dados](http://comexstat.mdic.gov.br/pt/home)  
+- ![Banco de Dados](http://comexstat.mdic.gov.br/pt/home)  
 - [Dashboard](
 
 
