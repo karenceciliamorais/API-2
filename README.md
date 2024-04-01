@@ -43,7 +43,7 @@ Sprint | Previsão | Status| Histórico|
 * Desenvolver soft e hard skills da equipe.
 
 # Tecnologias Utilizadas
--![JIRA SOFTWARE](https://github.com/karenceciliamorais/API-2/blob/main/TEC.PNG)
+-![JIRA SOFTWARE](https://github.com/karenceciliamorais/API-2/blob/main/Blue%20Modern%20Professional%20Organizational%20Chart%20Graph%20(1).png)
 
 # Banco de dado utiizado
 -![comex](https://github.com/karenceciliamorais/API-2/blob/main/comex.PNG)
