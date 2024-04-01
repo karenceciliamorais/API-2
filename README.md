@@ -43,14 +43,7 @@ Sprint | Previsão | Status| Histórico|
 * Desenvolver soft e hard skills da equipe.
 
 # Tecnologias Utilizadas
-  ### Produto 
-  > **Dashboard**, Power BI.
-
- ### Tecnológias Específicas/Apoio 
- 
-
--![JIRA SOFTWARE](https://github.com/karenceciliamorais/API-2/blob/main/JIRA.PNG)
--![Github](https://github.com/karenceciliamorais/API-2/blob/main/Github.PNG)
+-![JIRA SOFTWARE](https://github.com/karenceciliamorais/API-2/blob/main/TEC.PNG)
 
 
 Projeto:
