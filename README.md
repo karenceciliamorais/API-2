@@ -45,7 +45,7 @@ Sprint | Previsão | Status| Histórico|
 # Tecnologias Utilizadas
 -![JIRA SOFTWARE](https://github.com/karenceciliamorais/API-2/blob/main/Blue%20Modern%20Professional%20Organizational%20Chart%20Graph%20(1).png)
 
-# Banco de dado utiizado
+# Banco de dados utiizado
 -![comex](https://github.com/karenceciliamorais/API-2/blob/main/comex.PNG)
 
 # Dashboard
@@ -54,32 +54,27 @@ Sprint | Previsão | Status| Histórico|
 
 # Backlog do produto
 
-## Sprint 0. Concepção
-- [x] Definir o propósito do projeto (5H2W);
-- [x] Capacitação da equipe nas plataformas digitais;
-- [x] Capacitação da equipe nas metodologias agéis;
-- [x] Gerenciamento do projeto e sprints no Jira Software;
-- [x] Documentação no GitHub (Relatório e Imagens);
-- [x] Apresentação da Sprint 0 para o cliente (25/09).
 
 ## Sprint 1. Desenvolvimento do Projeto
-- [x] Estruturar a base de dados no Power B.I;
-- [x] Entender os fundamentos do coeficiente valor-peso de acordo com o livro Logística Empresarial;
-- [x] Pesquisa sobre o Aeroporto SJK e o modal aeroviário brasileiro;
-- [x] Análise dos dados de importação e exportação;
-- [x] Protótipo do Dashboard;
-- [x] Gerenciamento do projeto e sprints no Jira Software;
-- [x] Documentação no GitHub (Relatório);
-- [ ] Apresentação da Sprint 1 para o cliente (16/10).
+- [x] Curso básico de Power B.I para toda equipe;
+- [x] Filtrar os dados necessários no Power B.I;
+- [x] Segmentar os dados no Power B.I;
+- [x] Pesquisar os dados no Power B.I;
+- [x] Pesquisar significado das siglas dos dados no site da COMEX STAT;
+- [x] Pesquisar modais utilizados nos dados e seus custos;
+- [x] Fazer a formatação dos dados no Power B.I ( Transformar valores e ajustá-los);
+- [x] Tratamento de dados;
+- [ ] Fazer teste de criação de um gráfico com a somatória do valor FOB no Power B.I.
 
 ## Sprint 2. Desenvolimento do Projeto
-- [ ] Estruturar a base dados no Power B.I;
+- [ ] Identificar os modais utilizados na movimentação de carga;
+- [ ] Desenhar a geografia dos fluxos ( De onde sai e onde chega);
+- [ ] Desenvolver linha de tendência para as cargas identificadas;
+- [ ] Criar modelo de previsão por meio de suavização expodencial, identificando movimentações futuras;
 - [ ] Aplicar os fundamentos do coeficiente valor-peso nos dados;
-- [ ] Análise das cargas com mais potencial de exportação e importação num raio de 200km do Aeroporto;
-- [ ] Finalização do Dashboard;
-- [ ] Gerenciamento do projeto e sprints no Jira Software;
-- [ ] Documentação no GitHub (Relatórios e Imagens);
-- [ ] Apresentação da Sprint 2 para o cliente (06/11).
+- [ ] Análise de cargas com mais variações de sazonalidade;
+- [ ] 
+
 
 # Regras de Negócio
 
@@ -87,7 +82,7 @@ Sprint | Previsão | Status| Histórico|
 - Organizar a base de dados   
 - Determinar o valor FOB das cargas (dados)
 - Criar Dashboard para análise e comparação dos dados
-- Pontuar as cargas com maior potencial de importação e exportação
+- Pontuar as cargas com maior tendência de movimentação
 
 > Requisitos não funcionais
 - Usar software de gerenciamento (Jira Software)
