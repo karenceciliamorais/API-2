@@ -66,7 +66,7 @@ Sprint | Previsão | Status| Histórico|
 - [x] Tratamento de dados;
 - [ ] Fazer teste de criação de um gráfico com a somatória do valor FOB no Power B.I.
 
-## Sprint 2. Desenvolimento do Projeto
+## Sprint 2. Desenvolvimento do Projeto
 - [ ] Identificar os modais utilizados na movimentação de carga;
 - [ ] Desenhar a geografia dos fluxos ( De onde sai e onde chega);
 - [ ] Desenvolver linha de tendência para as cargas identificadas;
