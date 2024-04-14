@@ -87,10 +87,7 @@ Sprint | Previsão | Status| Histórico|
 > Requisitos não funcionais
 - Usar software de gerenciamento (Jira Software)
 - Metodologia ágil (SCRUM)
-- Power BI / GitHub / Canvas
-
-# Burndown
-![Burndown](https://github.com/CONAEX/Projeto-Integrador-1-Semestre/blob/main/.img/BURNUP.png)
+- Power BI / GitHub / Canvas / Slack
 
 # Competências desenvolvidas
 
@@ -122,10 +119,7 @@ Sprint | Previsão | Status| Histórico|
 | Adaptabilidade | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
 | Resiliência | ★ ★ ★ ★ ★ ★ ★ ☆ ☆ ☆ |
 
-</details>
 
-### VÍDEO (SPRINT 2) 
-https://github.com/CONAEX/Projeto-Integrador-1-Semestre/assets/144141782/d63e35cb-a2c2-43b3-a452-677b05168a2c
 
 
 
