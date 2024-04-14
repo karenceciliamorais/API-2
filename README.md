@@ -35,6 +35,8 @@ Sprint | Previsão | Status| Histórico|
 |  Scrum Team  | Guilherme Carvalho     |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-anthony-853606287/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/guianthonyy)          |
 |  Scrum Team  | Miriã Chaves     |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/miri%C3%A3-rodrigues-martins-chaves-9573b51a1?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/MiriaChaves)          |
 |  Scrum Team  | Mydory Siqueira     |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/noemy-mtfasi-533975264?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Mydory10) 
+
+
 # Objetivo do Projeto
 * Mapear o fluxo de exportação no estado de São Paulo identificando os modais utilizados na movimentação de cargas, desenhando a geografia do fluxo e desenvolvento uma linha de tendência para as cargas identificadas;
 * Criar modelo de previsão por meio de suavização exponencial para identificar movimentações futuras;
@@ -79,10 +81,11 @@ Sprint | Previsão | Status| Histórico|
 # Regras de Negócio
 
 > Requisitos funcionais 
-- Organizar a base de dados   
-- Determinar o valor FOB das cargas (dados)
+- Organizar a base de dados  
 - Criar Dashboard para análise e comparação dos dados
-- Pontuar as cargas com maior tendência de movimentação
+- Mostrar o fluxo de cargas saindo de São Paulo até o destino final
+- Fazer previsão de movimentação das cargas
+- Desenvolver linha de têndencia
 
 > Requisitos não funcionais
 - Usar software de gerenciamento (Jira Software)
@@ -91,7 +94,7 @@ Sprint | Previsão | Status| Histórico|
 
 # Competências desenvolvidas
 
-## Hard Skill (saber tecnológico)
+## Hard Skill
 <details>
 <summary>Hard Skills desenvolvidas</summary>
   
@@ -106,7 +109,7 @@ Sprint | Previsão | Status| Histórico|
  
 </details>
 
-## Soft Skill (saber comportamental)
+## Soft Skill 
 <details>
 <summary>Soft Skills desenvolvidas</summary>
 
