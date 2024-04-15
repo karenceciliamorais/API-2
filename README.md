@@ -47,7 +47,7 @@ Sprint | Previsão | Status| Histórico|
 # Tecnologias Utilizadas
 -![JIRA SOFTWARE](https://github.com/karenceciliamorais/API-2/blob/main/Blue%20Modern%20Professional%20Organizational%20Chart%20Graph%20(1).png)
 
-# Banco de dados utiizado
+# Banco de dados utilizado
 -![comex](https://github.com/karenceciliamorais/API-2/blob/main/comex.PNG)
 
 # Backlog do produto
