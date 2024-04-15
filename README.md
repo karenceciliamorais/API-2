@@ -50,10 +50,6 @@ Sprint | Previsão | Status| Histórico|
 # Banco de dados utiizado
 -![comex](https://github.com/karenceciliamorais/API-2/blob/main/comex.PNG)
 
-# Dashboard
-- [Dashboard](
-
-
 # Backlog do produto
 
 
