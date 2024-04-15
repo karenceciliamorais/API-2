@@ -62,7 +62,7 @@ Sprint | Previsão | Status| Histórico|
 - [x] Pesquisar modais utilizados nos dados e seus custos;
 - [x] Fazer a formatação dos dados no Power B.I ( Transformar valores e ajustá-los);
 - [x] Tratamento de dados;
-- [ ] Fazer teste de criação de um gráfico com a somatória do valor FOB no Power B.I.
+- [x] Fazer teste de criação de um gráfico com a somatória do valor FOB no Power B.I.
 
 ## Sprint 2. Desenvolvimento do Projeto
 - [ ] Identificar os modais utilizados na movimentação de carga;
