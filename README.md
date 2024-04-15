@@ -93,7 +93,10 @@ Sprint | Previsão | Status| Histórico|
 
 
 # Protótipo Dashboard
+
 ![prototipo](https://github.com/karenceciliamorais/API-2/blob/main/WhatsApp%20Image%202024-04-14%20at%2021.00.34.jpeg)
+
+![segmentaçãodosdados](https://github.com/karenceciliamorais/API-2/blob/main/WhatsApp%20Image%202024-04-14%20at%2021.00.47.jpeg)
 
 # Competências desenvolvidas
 
