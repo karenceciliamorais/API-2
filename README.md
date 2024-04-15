@@ -75,7 +75,6 @@ Sprint | Previsão | Status| Histórico|
 - [ ] Criar modelo de previsão por meio de suavização expodencial, identificando movimentações futuras;
 - [ ] Aplicar os fundamentos do coeficiente valor-peso nos dados;
 - [ ] Análise de cargas com mais variações de sazonalidade;
-- [ ] 
 
 
 # Regras de Negócio
@@ -91,6 +90,10 @@ Sprint | Previsão | Status| Histórico|
 - Usar software de gerenciamento (Jira Software)
 - Metodologia ágil (SCRUM)
 - Power BI / GitHub / Canvas / Slack
+
+
+# Protótipo Dashboard
+
 
 # Competências desenvolvidas
 
