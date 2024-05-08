@@ -101,7 +101,7 @@ Sprint | Previsão | Status| Histórico|
 
 ![segmentaçãodosdados](https://github.com/karenceciliamorais/API-2/blob/main/WhatsApp%20Image%202024-04-14%20at%2021.00.47.jpeg)
 
-![mapa](https://github.com/karenceciliamorais/API-2/commit/c765ce268d105d3027f21468ac13cb28f3e43fbc)
+![mapa](https://github.com/karenceciliamorais/API-2/blob/main/power3.jpg)
 
 # Competências desenvolvidas
 
