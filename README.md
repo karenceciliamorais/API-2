@@ -97,11 +97,13 @@ Sprint | Previsão | Status| Histórico|
 
 # Protótipo Dashboard
 
-![prototipo](https://github.com/karenceciliamorais/API-2/blob/main/WhatsApp%20Image%202024-04-14%20at%2021.00.34.jpeg)
+![prototipo](https://github.com/karenceciliamorais/API-2/blob/main/Gr%C3%A1ficos%20Power.PNG)
 
 ![segmentaçãodosdados](https://github.com/karenceciliamorais/API-2/blob/main/WhatsApp%20Image%202024-04-14%20at%2021.00.47.jpeg)
 
-![mapa](https://github.com/karenceciliamorais/API-2/blob/main/power3.jpg)
+![mapa](https://github.com/karenceciliamorais/API-2/blob/main/Mapa%20Power.PNG)
+
+![linha de tendência](https://github.com/karenceciliamorais/API-2/blob/main/Linha%20de%20tend%C3%AAncia%20power.PNG)
 
 # Competências desenvolvidas
 
