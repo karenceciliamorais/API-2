@@ -68,8 +68,8 @@ Sprint | Previsão | Status| Histórico|
 - [x] Estudo das ferramentas e painéis do B.I;
 - [x] Identificar os modais utilizados na movimentação de cargas;
 - [x] Criar um mapa para geografia dos fluxos no power B.I( De onde sai e onde chega);
-- [ ] Livro referência do Ballow;
-- [ ] Apresentação da Sprint.
+- [X] Livro referência do Ballow;
+- [X] Apresentação da Sprint.
 
 ## Sprint 3. Desenvolvimento do Projeto
 - [ ] Desenvolver linha de tendência para as cargas identificadas;
