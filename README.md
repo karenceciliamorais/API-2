@@ -97,9 +97,9 @@ Sprint | Previsão | Status| Histórico|
 
 # Protótipo Dashboard
 
-![prototipo](https://github.com/karenceciliamorais/API-2/blob/main/Gr%C3%A1ficos%20Power.PNG)
-
 ![segmentaçãodosdados](https://github.com/karenceciliamorais/API-2/blob/main/Rela%C3%A7%C3%B5es%20power.PNG)
+
+![prototipo](https://github.com/karenceciliamorais/API-2/blob/main/Gr%C3%A1ficos%20Power.PNG)
 
 ![mapa](https://github.com/karenceciliamorais/API-2/blob/main/Mapa%20Power.PNG)
 
