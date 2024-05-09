@@ -16,7 +16,7 @@ Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
 |Kick Off | 14/03/2024 |CONCLUÍDO | | 
 |01| 18/04/2024| EM ANDAMENTO |[Ver Relatório](https://github.com/karenceciliamorais/API-2/blob/main/Relat%C3%B3rio%20Sprint%201%20(1).pdf) |
-|02| 09/05/2024 | EM ANDAMENTO |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
+|02| 09/05/2024 | EM ANDAMENTO |[Ver Relatório](https://github.com/karenceciliamorais/API-2/blob/main/Relat%C3%B3rio%20sprint%202.pdf) | 
 |03| 29/05/2024 | FAZER |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx)  | 
 |04| 20/06/2024 | FAZER |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx)  | 
 |Feira de Soluções|27/06/2024 | FAZER |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
