@@ -99,7 +99,7 @@ Sprint | Previsão | Status| Histórico|
 
 ![prototipo](https://github.com/karenceciliamorais/API-2/blob/main/Gr%C3%A1ficos%20Power.PNG)
 
-![segmentaçãodosdados](https://github.com/karenceciliamorais/API-2/blob/main/WhatsApp%20Image%202024-04-14%20at%2021.00.47.jpeg)
+![segmentaçãodosdados](https://github.com/karenceciliamorais/API-2/blob/main/Rela%C3%A7%C3%B5es%20power.PNG)
 
 ![mapa](https://github.com/karenceciliamorais/API-2/blob/main/Mapa%20Power.PNG)
 
