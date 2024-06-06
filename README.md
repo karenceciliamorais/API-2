@@ -80,8 +80,8 @@ Sprint | Previsão | Status| Histórico|
 - [X] Caixa de seleção de modais no dashboard;
 - [X] Aumentar o tamanho dos gráficos;
 - [X] Tirar a tabela do estado e valor Fob;
-- [X] Deixar o intervalo de confiança em 80%]
-- [X] Baixar os dados de janeiro de 2024 no Comex Stat com as movimentações de cargas pelo modal AÉRIO.
+- [X] Deixar o intervalo de confiança em 80%
+- [X] Baixar os dados de janeiro de 2024 no Comex Stat com as movimentações de cargas pelo modal AEREO.
 
 ## Sprint 4. Desenvolvimento do Projeto
 - [ ] Estudar como colocar equação e R² na previsão do Power BI;
