@@ -16,8 +16,8 @@ Sprint | Previsão | Status| Histórico|
 |------|--------|------|--------|
 |Kick Off | 14/03/2024 |CONCLUÍDO | | 
 |01| 18/04/2024| CONCLUÍDO |[Ver Relatório](https://github.com/karenceciliamorais/API-2/blob/main/Relat%C3%B3rio%20Sprint%201%20(1).pdf) |
-|02| 09/05/2024 | EM ANDAMENTO |[Ver Relatório](https://github.com/karenceciliamorais/API-2/blob/main/Relatorio%20sprint%2002.docx) | 
-|03| 29/05/2024 | FAZER |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx)  | 
+|02| 09/05/2024 | CONCLUÍDO |[Ver Relatório](https://github.com/karenceciliamorais/API-2/blob/main/Relatorio%20sprint%2002.docx) | 
+|03| 06/06/2024 | EM ANDAMENTO |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx)  | 
 |04| 20/06/2024 | FAZER |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx)  | 
 |Feira de Soluções|27/06/2024 | FAZER |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 
@@ -72,13 +72,24 @@ Sprint | Previsão | Status| Histórico|
 - [X] Apresentação da Sprint.
 
 ## Sprint 3. Desenvolvimento do Projeto
-- [ ] Desenvolver linha de tendência para as cargas identificadas;
-- [ ] Criar modelo de previsão por meio de suavização expodencial, identificando movimentações futuras;
-- [ ] Análise de cargas com mais variações de sazonalidade.
+- [X] Desenvolver linha de tendência para as cargas identificadas;
+- [X] Criar modelo de previsão por meio de suavização expodencial, identificando movimentações futuras;
+- [X] Agrupar modasi no Dashboard;
+- [X] Valor agregado e valor por quilo das cargas nos diferentes modais;
+- [X] Retirar o gráfico da quantidade estatística e eliminar a coluna;
+- [X] Caixa de seleção de modais no dashboard;
+- [X] Aumentar o tamanho dos gráficos;
+- [X] Tirar a tabela do estado e valor Fob;
+- [X] Deixar o intervalo de confiança em 80%]
+- [X] Baixar os dados de janeiro de 2024 no Comex Stat com as movimentações de cargas pelo modal AÉRIO.
 
 ## Sprint 4. Desenvolvimento do Projeto
+- [ ] Estudar como colocar equação e R² na previsão do Power BI;
+- [ ] Mudar a tabela da previsão expodencial, só para peso,
+- [ ] Pesquisar principais trajetos que as 10 cargas mais exportadas fizeram;
+- [ ] Desenvolcar uma planilha com as 150 cargas mais exportadas com a previsão de erro entre o Power bi e o dado real do COMEX STAT;
 - [ ] Correções finais.
-
+ 
 
 # Regras de Negócio
 
