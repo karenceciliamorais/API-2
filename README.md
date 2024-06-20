@@ -84,11 +84,11 @@ Sprint | Previsão | Status| Histórico|
 - [X] Baixar os dados de janeiro de 2024 no Comex Stat com as movimentações de cargas pelo modal AEREO.
 
 ## Sprint 4. Desenvolvimento do Projeto
-- [ ] Estudar como colocar equação e R² na previsão do Power BI;
-- [ ] Mudar a tabela da previsão expodencial, só para peso,
-- [ ] Pesquisar principais trajetos que as 10 cargas mais exportadas fizeram;
-- [ ] Desenvolcar uma planilha com as 150 cargas mais exportadas com a previsão de erro entre o Power bi e o dado real do COMEX STAT;
-- [ ] Correções finais.
+- [X] Estudar como colocar equação e R² na previsão do Power BI;
+- [X] Mudar a tabela da previsão expodencial, só para peso,
+- [X] Baixar planilha de dados Janeiro de 2024;
+- [X] Desenvolcar uma planilha com as 150 cargas mais exportadas com a previsão de erro entre o Power bi e o dado real do COMEX STAT;
+- [X] Correções finais.
  
 
 # Regras de Negócio
