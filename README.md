@@ -87,7 +87,7 @@ Sprint | Previsão | Status| Histórico|
 - [X] Estudar como colocar equação e R² na previsão do Power BI;
 - [X] Mudar a tabela da previsão expodencial, só para peso,
 - [X] Baixar planilha de dados Janeiro de 2024;
-- [X] Desenvolcar uma planilha com as 150 cargas mais exportadas com a previsão de erro entre o Power bi e o dado real do COMEX STAT;
+- [ ] Desenvolver uma planilha com as 150 cargas mais exportadas com a previsão de erro entre o Power bi e o dado real do COMEX STAT;
 - [X] Correções finais.
  
 
