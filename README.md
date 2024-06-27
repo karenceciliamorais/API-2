@@ -18,8 +18,8 @@ Sprint | Previsão | Status| Histórico|
 |01| 18/04/2024| CONCLUÍDO |[Ver Relatório](https://github.com/karenceciliamorais/API-2/blob/main/Relat%C3%B3rio%20Sprint%201%20(1).pdf) |
 |02| 09/05/2024 | CONCLUÍDO |[Ver Relatório](https://github.com/karenceciliamorais/API-2/blob/main/Relat%C3%B3rio%20sprint%202.pdf) | 
 |03| 06/06/2024 | CONCLUÍDO |[Ver Relatório](https://github.com/karenceciliamorais/API-2/blob/main/Relat%C3%B3rio%20sprint%203.pdf)  | 
-|04| 20/06/2024 | EM ANDAMENTO |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx)  | 
-|Feira de Soluções|27/06/2024 | FAZER |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
+|04| 20/06/2024 | CONCLUÍDO |[Ver Relatório](https://github.com/karenceciliamorais/API-2/blob/main/Relat%C3%B3rio%20sprint%204.pdf)  | 
+|Feira de Soluções|27/06/2024 | EM ANDAMENTO |[Ver Relatório](https://fatecsjc-prd.azurewebsites.net/downloads/estagio/modelo_relatorio_estagio_gpi.docx) | 
 
 
 # Equipe
@@ -87,7 +87,7 @@ Sprint | Previsão | Status| Histórico|
 - [X] Estudar como colocar equação e R² na previsão do Power BI;
 - [X] Mudar a tabela da previsão expodencial, só para peso,
 - [X] Baixar planilha de dados Janeiro de 2024;
-- [ ] Desenvolver uma planilha com as 150 cargas mais exportadas com a previsão de erro entre o Power bi e o dado real do COMEX STAT;
+- [x] Fazer uma previsão e dado real da expostação na linha de tendência, identificando se a a previsão está ou nao correta ou dentro do intervalo de confiança;
 - [X] Correções finais.
  
 
