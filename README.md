@@ -112,7 +112,7 @@ Sprint | Previsão | Status| Histórico|
 
 ![mapa](https://github.com/karenceciliamorais/API-2/blob/main/Mapa%204.PNG)
 
-![linha de tendência](https://github.com/karenceciliamorais/API-2/blob/main/Linha%20de%20tend%C3%AAncia%204.PNG)
+![linha de tendência](https://github.com/karenceciliamorais/API-2/blob/main/Linha%20de%20tend%C3%AAncia%204.1.PNG)
 
 # Competências desenvolvidas
 
